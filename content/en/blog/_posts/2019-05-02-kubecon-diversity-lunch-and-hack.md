@@ -8,7 +8,7 @@ slug: kubecon-diversity-lunch-and-hack
 
 Join us for the 2019 KubeCon Diversity Lunch & Hack: Building Tech Skills & An Inclusive Community - Sponsored by Google Cloud and VMware
 
-Registration for the Diversity Lunch opens today, May 2nd, 2019. To register, go to the main <a href="https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/schedule/">KubeCon + CloudNativeCon EU schedule</a>, then log in to your Sched account, and confirm your attendance to the Diversity Lunch. Please sign up ASAP once the link is live, as spaces will fill quickly. We filled the event in just a few days last year, and anticipate doing so again this year.
+Registration for the Diversity Lunch opens today, May 2nd, 2019. To register, go to the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe98Y4sAZW55z1AKHls_rew6XxGaiEdRm0W5fqempA-8R8s5Q/viewform">signup form</a>, fill in your information, and press submit. Please sign up ASAP, as spaces will fill quickly. We filled the event in just a few days last year, and anticipate doing so again this year.
 
 The 2019 KubeCon Diversity Lunch & Hack will be held at the Fira Gran Via Barcelona Hall 8.0 Room F1 on May 22nd, 2019 from 12:30-14:00.
 
